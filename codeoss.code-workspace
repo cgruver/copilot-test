@@ -13,8 +13,7 @@
 			"eamodio.gitlens",
 			"streetsidesoftware.code-spell-checker",
 			"johnpapa.winteriscoming",
-			"cnshenj.vscode-task-manager",
-			"rooveterinaryinc.roo-cline"
+			"cnshenj.vscode-task-manager"
 		]
 	},
 	"settings": {
